@@ -6,7 +6,7 @@ namespace ExVetor
 {
     class Produto
     {
-        public string Name { get; set; }
-        public double Price { get; set; }
+        public string Name { get; set; } //Get e Set do Nome do Produto
+        public double Price { get; set; } // Get e Set do Preço do Produto
     }
 }
